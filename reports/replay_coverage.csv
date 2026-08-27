@@ -1,0 +1,5 @@
+scope,nominal,n,PICP,MPIW
+all UC-weeks,80%,2175,0.9586,4.08
+all UC-weeks,95%,2175,0.988,6.79
+UC-weeks with cases,80%,574,0.8432,14.35
+UC-weeks with cases,95%,574,0.9547,23.28

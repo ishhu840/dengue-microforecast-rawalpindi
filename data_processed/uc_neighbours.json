@@ -1,0 +1,669 @@
+{
+ "Gulistan Colony": [
+  "Dhaman Syedan",
+  "KARTARPURA",
+  "KHURRAM COLONY",
+  "KOTHA KALAN",
+  "MORGAH",
+  "MUSLIM TOWN (WEST)",
+  "TAKHT PARI"
+ ],
+ "KHANA DAK": [
+  "BANGISH COLONY",
+  "CHAK JALAL DIN",
+  "DHOK HASSU(NORTH)",
+  "DHOK MANGTAL",
+  "DHOK RATTA",
+  "Dhaman Syedan",
+  "Dhamial",
+  "FAUJI COLONY",
+  "HAZARA COLONY",
+  "Jhanda Chichi",
+  "LAKKHAN"
+ ],
+ "Khurram Colony": [
+  "BANNI",
+  "DHOK ALI AKBAR",
+  "DHOK FARMAN ALI",
+  "DHOK KHABBA",
+  "DHOK MUNSHI KHAN",
+  "MILLAT COLONY",
+  "MUHALLA AMAMBARA",
+  "RAWALPINDI CANTT-8"
+ ],
+ "DHOK MUNSHI KHAN": [
+  "BANNI",
+  "GANGAL",
+  "KOTHA KALAN",
+  "Khurram Colony",
+  "MILLAT COLONY"
+ ],
+ "KOTHA KALAN": [
+  "BANNI",
+  "DHOK MUNSHI KHAN",
+  "GANGAL",
+  "Gulistan Colony",
+  "KARTARPURA"
+ ],
+ "MORGAH": [
+  "Dhaman Syedan",
+  "Gulistan Colony",
+  "TAKHT PARI"
+ ],
+ "Adiala": [
+  "CHAHAN",
+  "Chauntra",
+  "Chhappar",
+  "Dhaman Syedan",
+  "Dhamial",
+  "RANIAL"
+ ],
+ "Dhaman Syedan": [
+  "Adiala",
+  "Chhappar",
+  "Dhamial",
+  "Gulistan Colony",
+  "Jhanda Chichi",
+  "KHANA DAK",
+  "KHURRAM COLONY",
+  "MORGAH",
+  "TAKHT PARI"
+ ],
+ "Dhamial": [
+  "Adiala",
+  "Dhaman Syedan",
+  "KHANA DAK",
+  "LAKKHAN",
+  "RANIAL"
+ ],
+ "LAKKHAN": [
+  "CHAK JALAL DIN",
+  "Dhamial",
+  "Dhoke Mangtal",
+  "KHANA DAK",
+  "RANIAL"
+ ],
+ "CHAK JALAL DIN": [
+  "DHOK RATTA",
+  "Dhoke Mangtal",
+  "HAZARA COLONY",
+  "KHANA DAK",
+  "LAKKHAN",
+  "RAWALPINDI CANTT-1"
+ ],
+ "Dhoke Mangtal": [
+  "ASGHAR MALL SCHEME",
+  "BAJNIAL",
+  "CHAK JALAL DIN",
+  "DHOK DALAL",
+  "GANJ MANDI",
+  "LAKKHAN",
+  "MOHANPURA",
+  "Purana Qila",
+  "RANIAL",
+  "RATTA AMRAL",
+  "RAWALPINDI CANTT-1",
+  "RAWALPINDI CANTT-2",
+  "RAWALPINDI CANTT-9",
+  "Waris Khan"
+ ],
+ "BAJNIAL": [
+  "CHAHAN",
+  "Dhoke Mangtal",
+  "RANIAL"
+ ],
+ "RANIAL": [
+  "Adiala",
+  "BAJNIAL",
+  "CHAHAN",
+  "Dhamial",
+  "Dhoke Mangtal",
+  "LAKKHAN"
+ ],
+ "CHAHAN": [
+  "Adiala",
+  "BAJNIAL",
+  "Chauntra",
+  "RANIAL",
+  "SEHAL"
+ ],
+ "SEHAL": [
+  "CHAHAN",
+  "Chauntra",
+  "Gaggan",
+  "Kolian Hamid"
+ ],
+ "Kolian Hamid": [
+  "Chakri",
+  "Gaggan",
+  "SEHAL"
+ ],
+ "Chakri": [
+  "Gaggan",
+  "Kolian Hamid",
+  "PARIAL"
+ ],
+ "PARIAL": [
+  "Chakri",
+  "Gaggan",
+  "RAIKA MAIRA"
+ ],
+ "RAIKA MAIRA": [
+  "CHAK BELI KHAN",
+  "Gaggan",
+  "PARIAL"
+ ],
+ "CHAK BELI KHAN": [
+  "Chauntra",
+  "Gaggan",
+  "RAIKA MAIRA"
+ ],
+ "Gaggan": [
+  "CHAK BELI KHAN",
+  "Chakri",
+  "Chauntra",
+  "Kolian Hamid",
+  "PARIAL",
+  "RAIKA MAIRA",
+  "SEHAL"
+ ],
+ "Chauntra": [
+  "Adiala",
+  "BANDA",
+  "CHAHAN",
+  "CHAK BELI KHAN",
+  "Chhappar",
+  "Gaggan",
+  "SEHAL"
+ ],
+ "BANDA": [
+  "BASALI",
+  "Chauntra",
+  "Chhappar"
+ ],
+ "Chhappar": [
+  "Adiala",
+  "BANDA",
+  "BASALI",
+  "Chauntra",
+  "Dhaman Syedan",
+  "TAKHT PARI"
+ ],
+ "BASALI": [
+  "BAGGA SHEIKHAN",
+  "BANDA",
+  "Chhappar",
+  "TAKHT PARI"
+ ],
+ "TAKHT PARI": [
+  "BAGGA SHEIKHAN",
+  "BASALI",
+  "Chhappar",
+  "Dhaman Syedan",
+  "Gulistan Colony",
+  "LOHDRA",
+  "MORGAH"
+ ],
+ "BAGGA SHEIKHAN": [
+  "BASALI",
+  "LOHDRA",
+  "SAGRI KALAN",
+  "TAKHT PARI"
+ ],
+ "LOHDRA": [
+  "107 UC",
+  "BAGGA SHEIKHAN",
+  "SAGRI KALAN",
+  "TAKHT PARI"
+ ],
+ "SAGRI KALAN": [
+  "107 UC",
+  "BAGGA SHEIKHAN",
+  "LOHDRA"
+ ],
+ "107 UC": [
+  "LOHDRA",
+  "SAGRI KALAN"
+ ],
+ "GANGAL": [
+  "CITY-46",
+  "DHOK MUNSHI KHAN",
+  "KOTHA KALAN",
+  "MILLAT COLONY"
+ ],
+ "RATTA AMRAL": [
+  "Dhoke Mangtal",
+  "RAWALPINDI CANTT-1"
+ ],
+ "DHOK RATTA": [
+  "CHAK JALAL DIN",
+  "DHOK HASSU(NORTH)",
+  "DHOK HASSU(SOUTH)",
+  "HAZARA COLONY",
+  "KHANA DAK",
+  "KHYBAN SIR SYED(NORTH)"
+ ],
+ "HAZARA COLONY": [
+  "CHAK JALAL DIN",
+  "DHOK HASSU(SOUTH)",
+  "DHOK RATTA",
+  "KHANA DAK",
+  "KHYBAN SIR SYED(NORTH)",
+  "RAWALPINDI CANTT-1"
+ ],
+ "DHOK MANGTAL": [
+  "BANGISH COLONY",
+  "DHOK HASSU(NORTH)",
+  "DHOK HASSU(SOUTH)",
+  "FAUJI COLONY",
+  "KHANA DAK",
+  "RAWALPINDI CANTT-3",
+  "SAIDPUR SCHEME"
+ ],
+ "DHOK HASSU(NORTH)": [
+  "BANGISH COLONY",
+  "DHOK HASSU(SOUTH)",
+  "DHOK MANGTAL",
+  "DHOK RATTA",
+  "FAUJI COLONY",
+  "KHANA DAK"
+ ],
+ "DHOK HASSU(SOUTH)": [
+  "DHOK HASSU(NORTH)",
+  "DHOK MANGTAL",
+  "DHOK NAJJU",
+  "DHOK RATTA",
+  "HAZARA COLONY",
+  "KHYBAN SIR SYED(NORTH)",
+  "RAWALPINDI CANTT-3",
+  "Ratta Amral",
+  "SAIDPUR SCHEME"
+ ],
+ "PIR WADHI": [
+  "DHOK NAJJU",
+  "KHYBAN SIR SYED(NORTH)",
+  "KHYBAN SIR SYED(SOUTH)",
+  "NEW KATARIAN",
+  "RAWALPINDI CANTT-1",
+  "RAWALPINDI CANTT-2"
+ ],
+ "FAUJI COLONY": [
+  "BANGISH COLONY",
+  "DHOK HASSU(NORTH)",
+  "DHOK MANGTAL",
+  "Jhanda Chichi",
+  "KHANA DAK",
+  "RAWALPINDI CANTT-3"
+ ],
+ "BANGISH COLONY": [
+  "DHOK HASSU(NORTH)",
+  "DHOK MANGTAL",
+  "FAUJI COLONY",
+  "Jhanda Chichi",
+  "KHANA DAK",
+  "RAWALPINDI CANTT-3"
+ ],
+ "KHYBAN SIR SYED(NORTH)": [
+  "DHOK HASSU(SOUTH)",
+  "DHOK NAJJU",
+  "DHOK RATTA",
+  "HAZARA COLONY",
+  "KHYBAN SIR SYED(SOUTH)",
+  "PIR WADHI",
+  "RAWALPINDI CANTT-1"
+ ],
+ "DHOK NAJJU": [
+  "DHOK HASSU(SOUTH)",
+  "KHYBAN SIR SYED(NORTH)",
+  "KHYBAN SIR SYED(SOUTH)",
+  "NEW KATARIAN",
+  "PIR WADHI",
+  "RAWALPINDI CANTT-2",
+  "Ratta Amral",
+  "SAIDPUR SCHEME"
+ ],
+ "NEW KATARIAN": [
+  "DHOK NAJJU",
+  "Dhok Ratta",
+  "PIR WADHI",
+  "RAWALPINDI CANTT-2",
+  "Ratta Amral"
+ ],
+ "Ratta Amral": [
+  "DHOK HASSU(SOUTH)",
+  "DHOK NAJJU",
+  "Dhok Ratta",
+  "Mohan Pura",
+  "NEW KATARIAN",
+  "SAIDPUR SCHEME"
+ ],
+ "SAIDPUR SCHEME": [
+  "DHOK HASSU(SOUTH)",
+  "DHOK MANGTAL",
+  "DHOK NAJJU",
+  "Dhok Ratta",
+  "MUHALLA EIDGAH",
+  "Mohan Pura",
+  "RAWALPINDI CANTT-3",
+  "Ratta Amral"
+ ],
+ "MUHALLA EIDGAH": [
+  "DHOK BABU IRFAN",
+  "Mohan Pura",
+  "RAWALPINDI CANTT-3",
+  "SAIDPUR SCHEME"
+ ],
+ "DHOK BABU IRFAN": [
+  "Gawal Mandi",
+  "MUHALLA EIDGAH",
+  "Mohan Pura",
+  "PINDORA",
+  "QAYYUMABAD",
+  "RAWALPINDI CANTT-3"
+ ],
+ "PINDORA": [
+  "DHOK BABU IRFAN",
+  "DHOK HUKAM DAD",
+  "DHOK KASHMIRIAN",
+  "Dhoke Chiragh Din",
+  "Gawal Mandi",
+  "Jhanda Chichi",
+  "RAWALPINDI CANTT-3"
+ ],
+ "Mohan Pura": [
+  "AFANDI COLONY",
+  "DHOK BABU IRFAN",
+  "Dhok Ratta",
+  "Gawal Mandi",
+  "MUHALLA EIDGAH",
+  "QAYYUMABAD",
+  "RAWALPINDI CANTT-3",
+  "Ratta Amral",
+  "SAIDPUR SCHEME"
+ ],
+ "ASGHAR MALL SCHEME": [
+  "Dhok Ratta",
+  "Dhoke Mangtal",
+  "Purana Qila",
+  "RAWALPINDI CANTT-2"
+ ],
+ "DHOK KALA KHAN": [
+  "DHOK ALI AKBAR",
+  "PURANA QILLA",
+  "SHAH CHAN CHARAGH"
+ ],
+ "QAYYUMABAD": [
+  "AFANDI COLONY",
+  "DHOK BABU IRFAN",
+  "DHOK KALA KHAN",
+  "DHOK KASHMIRIAN",
+  "Gawal Mandi",
+  "Mohan Pura"
+ ],
+ "DHOK KASHMIRIAN": [
+  "DHOK HUKAM DAD",
+  "DHOK KALA KHAN",
+  "Dhoke Chiragh Din",
+  "Gawal Mandi",
+  "PINDORA",
+  "QAYYUMABAD",
+  "Waris Khan"
+ ],
+ "Ganj Mandi": [
+  "AFANDI COLONY",
+  "DHOK KALA KHAN",
+  "Dhok Ratta",
+  "Purana Qila"
+ ],
+ "Gawal Mandi": [
+  "DHOK BABU IRFAN",
+  "DHOK HUKAM DAD",
+  "DHOK KALA KHAN",
+  "DHOK KASHMIRIAN",
+  "Dhoke Chiragh Din",
+  "Mohan Pura",
+  "PINDORA",
+  "QAYYUMABAD"
+ ],
+ "AFANDI COLONY": [
+  "DHOK KALA KHAN",
+  "Dhok Ratta",
+  "Ganj Mandi",
+  "Mohan Pura",
+  "Purana Qila",
+  "QAYYUMABAD"
+ ],
+ "Dhoke Chiragh Din": [
+  "CHAH SULTAN",
+  "DHOK HUKAM DAD",
+  "DHOK KASHMIRIAN",
+  "Gawal Mandi",
+  "Jhanda Chichi",
+  "PINDORA"
+ ],
+ "MUSLIM TOWN (WEST)": [
+  "Gulistan Colony",
+  "Jhanda Chichi",
+  "KARTARPURA",
+  "KHURRAM COLONY"
+ ],
+ "KHURRAM COLONY": [
+  "Dhaman Syedan",
+  "Gulistan Colony",
+  "Jhanda Chichi",
+  "MUSLIM TOWN (WEST)"
+ ],
+ "CHAH SULTAN": [
+  "AMARPURA",
+  "DHOK HUKAM DAD",
+  "Dhoke Chiragh Din",
+  "Jhanda Chichi",
+  "KARTARPURA",
+  "RAWALPINDI CANTT-8",
+  "Waris Khan"
+ ],
+ "DHOK HUKAM DAD": [
+  "AMARPURA",
+  "CHAH SULTAN",
+  "DHOK KASHMIRIAN",
+  "Dhoke Chiragh Din",
+  "Gawal Mandi",
+  "PINDORA",
+  "Waris Khan"
+ ],
+ "AMARPURA": [
+  "CHAH SULTAN",
+  "DHOK HUKAM DAD",
+  "Waris Khan"
+ ],
+ "KARTARPURA": [
+  "BANNI",
+  "CHAH SULTAN",
+  "Gulistan Colony",
+  "Jhanda Chichi",
+  "KOTHA KALAN",
+  "MUSLIM TOWN (WEST)",
+  "RAWALPINDI CANTT-8"
+ ],
+ "BANNI": [
+  "DHOK MUNSHI KHAN",
+  "KARTARPURA",
+  "KOTHA KALAN",
+  "Khurram Colony",
+  "RAWALPINDI CANTT-8"
+ ],
+ "MUHALLA AMAMBARA": [
+  "DHOK ALI AKBAR",
+  "Khurram Colony",
+  "RAWALPINDI CANTT-8",
+  "RAWALPINDI CANTT-9"
+ ],
+ "MOHANPURA": [
+  "DHOK DALAL",
+  "Dhoke Mangtal",
+  "GANJ MANDI",
+  "RAWALPINDI CANTT-9"
+ ],
+ "DHOK DALAL": [
+  "DHOK ALI AKBAR",
+  "Dhoke Mangtal",
+  "GANJ MANDI",
+  "MOHANPURA"
+ ],
+ "GANJ MANDI": [
+  "DHOK ALI AKBAR",
+  "DHOK DALAL",
+  "Dhoke Mangtal",
+  "MOHANPURA",
+  "RAWALPINDI CANTT-9"
+ ],
+ "PURANA QILLA": [
+  "DHOK ALI AKBAR",
+  "DHOK FARMAN ALI",
+  "DHOK KALA KHAN",
+  "SHAH CHAN CHARAGH"
+ ],
+ "SHAH CHAN CHARAGH": [
+  "DHOK ALI AKBAR",
+  "DHOK KALA KHAN",
+  "PURANA QILLA"
+ ],
+ "MILLAT COLONY": [
+  "CHAMAN ZAR COLONY",
+  "CITY-46",
+  "DHOK KHABBA",
+  "DHOK MUNSHI KHAN",
+  "GANGAL",
+  "Khurram Colony"
+ ],
+ "DHOK KHABBA": [
+  "DHOK FARMAN ALI",
+  "Khurram Colony",
+  "MILLAT COLONY"
+ ],
+ "DHOK FARMAN ALI": [
+  "DHOK ALI AKBAR",
+  "DHOK KHABBA",
+  "Khurram Colony",
+  "PURANA QILLA"
+ ],
+ "CHAMAN ZAR COLONY": [
+  "CITY-46",
+  "MILLAT COLONY"
+ ],
+ "CITY-46": [
+  "CHAMAN ZAR COLONY",
+  "GANGAL",
+  "MILLAT COLONY"
+ ],
+ "RAWALPINDI CANTT-1": [
+  "CHAK JALAL DIN",
+  "Dhoke Mangtal",
+  "HAZARA COLONY",
+  "KHYBAN SIR SYED(NORTH)",
+  "KHYBAN SIR SYED(SOUTH)",
+  "PIR WADHI",
+  "RATTA AMRAL",
+  "RAWALPINDI CANTT-2"
+ ],
+ "RAWALPINDI CANTT-2": [
+  "ASGHAR MALL SCHEME",
+  "DHOK NAJJU",
+  "Dhok Ratta",
+  "Dhoke Mangtal",
+  "NEW KATARIAN",
+  "PIR WADHI",
+  "RAWALPINDI CANTT-1"
+ ],
+ "RAWALPINDI CANTT-3": [
+  "BANGISH COLONY",
+  "DHOK BABU IRFAN",
+  "DHOK HASSU(SOUTH)",
+  "DHOK MANGTAL",
+  "FAUJI COLONY",
+  "Jhanda Chichi",
+  "MUHALLA EIDGAH",
+  "Mohan Pura",
+  "PINDORA",
+  "SAIDPUR SCHEME"
+ ],
+ "Dhok Ratta": [
+  "AFANDI COLONY",
+  "ASGHAR MALL SCHEME",
+  "Ganj Mandi",
+  "Mohan Pura",
+  "NEW KATARIAN",
+  "Purana Qila",
+  "RAWALPINDI CANTT-2",
+  "Ratta Amral",
+  "SAIDPUR SCHEME"
+ ],
+ "Purana Qila": [
+  "AFANDI COLONY",
+  "ASGHAR MALL SCHEME",
+  "DHOK KALA KHAN",
+  "Dhok Ratta",
+  "Dhoke Mangtal",
+  "Ganj Mandi",
+  "Waris Khan"
+ ],
+ "Jhanda Chichi": [
+  "BANGISH COLONY",
+  "CHAH SULTAN",
+  "Dhaman Syedan",
+  "Dhoke Chiragh Din",
+  "FAUJI COLONY",
+  "KARTARPURA",
+  "KHANA DAK",
+  "KHURRAM COLONY",
+  "MUSLIM TOWN (WEST)",
+  "PINDORA",
+  "RAWALPINDI CANTT-3"
+ ],
+ "Waris Khan": [
+  "AMARPURA",
+  "CHAH SULTAN",
+  "DHOK HUKAM DAD",
+  "DHOK KALA KHAN",
+  "DHOK KASHMIRIAN",
+  "Dhoke Mangtal",
+  "Purana Qila",
+  "RAWALPINDI CANTT-8",
+  "RAWALPINDI CANTT-9"
+ ],
+ "RAWALPINDI CANTT-8": [
+  "BANNI",
+  "CHAH SULTAN",
+  "KARTARPURA",
+  "Khurram Colony",
+  "MUHALLA AMAMBARA",
+  "RAWALPINDI CANTT-9",
+  "Waris Khan"
+ ],
+ "RAWALPINDI CANTT-9": [
+  "DHOK ALI AKBAR",
+  "Dhoke Mangtal",
+  "GANJ MANDI",
+  "MOHANPURA",
+  "MUHALLA AMAMBARA",
+  "RAWALPINDI CANTT-8",
+  "Waris Khan"
+ ],
+ "DHOK ALI AKBAR": [
+  "DHOK DALAL",
+  "DHOK FARMAN ALI",
+  "DHOK KALA KHAN",
+  "GANJ MANDI",
+  "Khurram Colony",
+  "MUHALLA AMAMBARA",
+  "PURANA QILLA",
+  "RAWALPINDI CANTT-9",
+  "SHAH CHAN CHARAGH"
+ ],
+ "KHYBAN SIR SYED(SOUTH)": [
+  "DHOK NAJJU",
+  "KHYBAN SIR SYED(NORTH)",
+  "PIR WADHI",
+  "RAWALPINDI CANTT-1"
+ ]
+}

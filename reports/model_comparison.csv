@@ -1,0 +1,33 @@
+model,fold,scope,MAE,RMSE,PoissonDev,Top10Hit,n
+Always zero,test 2023,all weeks,0.3585,2.1974,15.6235,0.4133,4524
+Always zero,test 2023,season w26-50,0.743,3.1687,32.3881,0.2917,2175
+Persistence,test 2023,all weeks,0.2456,1.1359,2.1061,0.7067,4524
+Persistence,test 2023,season w26-50,0.5062,1.6368,4.2683,0.6583,2175
+Seasonal UC mean,test 2023,all weeks,0.6285,3.8512,2.5819,0.5933,4524
+Seasonal UC mean,test 2023,season w26-50,1.3023,5.5539,5.257,0.5292,2175
+Static share (current app),test 2023,all weeks,0.393,2.0717,0.7238,0.3767,4524
+Static share (current app),test 2023,season w26-50,0.8121,2.9874,1.4821,0.4625,2175
+XGB own history,test 2023,all weeks,0.2674,1.1719,0.3952,0.43,4524
+XGB own history,test 2023,season w26-50,0.5509,1.6893,0.7941,0.5292,2175
+XGB own + weather,test 2023,all weeks,0.2523,1.1382,0.3834,0.45,4524
+XGB own + weather,test 2023,season w26-50,0.5204,1.6407,0.7697,0.5542,2175
+XGB own + spatial,test 2023,all weeks,0.2562,1.0998,0.38,0.4433,4524
+XGB own + spatial,test 2023,season w26-50,0.5275,1.5853,0.7621,0.5458,2175
+XGB own + spatial + weather,test 2023,all weeks,0.2418,1.0699,0.3695,0.4533,4524
+XGB own + spatial + weather,test 2023,season w26-50,0.4985,1.5422,0.7406,0.5583,2175
+Always zero,test 2024,all weeks,1.1397,7.3535,52.3115,0.4355,4437
+Always zero,test 2024,season w26-50,2.32,10.5025,106.5147,0.3125,2175
+Persistence,test 2024,all weeks,0.5803,2.9555,3.0169,0.7742,4437
+Persistence,test 2024,season w26-50,1.1724,4.2197,5.9409,0.7583,2175
+Seasonal UC mean,test 2024,all weeks,0.7693,4.7498,2.7426,0.7032,4437
+Seasonal UC mean,test 2024,season w26-50,1.5623,6.7835,5.3902,0.6667,2175
+Static share (current app),test 2024,all weeks,0.4777,2.2675,0.4667,0.4581,4437
+Static share (current app),test 2024,season w26-50,0.9655,3.2378,0.9215,0.5708,2175
+XGB own history,test 2024,all weeks,0.5491,3.4871,0.6245,0.4581,4437
+XGB own history,test 2024,season w26-50,1.1104,4.98,1.2285,0.5708,2175
+XGB own + weather,test 2024,all weeks,0.5132,3.1596,0.5538,0.4677,4437
+XGB own + weather,test 2024,season w26-50,1.0383,4.5122,1.0841,0.5833,2175
+XGB own + spatial,test 2024,all weeks,0.5584,3.5431,0.629,0.4548,4437
+XGB own + spatial,test 2024,season w26-50,1.1294,5.0599,1.2372,0.5667,2175
+XGB own + spatial + weather,test 2024,all weeks,0.5366,3.3584,0.5791,0.4548,4437
+XGB own + spatial + weather,test 2024,season w26-50,1.0862,4.7961,1.1341,0.5708,2175

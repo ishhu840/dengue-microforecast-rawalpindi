@@ -1,0 +1,16 @@
+# Runtime for the scheduled forecast refresh (src/12 -> src/08).
+# Deliberately light: the live path needs no geospatial stack, because the UC
+# polygons were already projected to SVG paths when the app was first built.
+pandas>=2.0
+numpy>=1.24
+requests>=2.31
+xgboost>=2.0
+scipy>=1.11
+
+# Only needed to rebuild the panel from the raw line list (src/01, 04, 09, 10).
+# Not installed in CI.
+# geopandas>=1.0
+# shapely>=2.0
+# scikit-learn>=1.3
+# openpyxl>=3.1
+# pyarrow>=14

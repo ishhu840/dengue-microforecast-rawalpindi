@@ -1,0 +1,24 @@
+{
+  "city_area_km2": 1632.5,
+  "by_radius": [
+    {
+      "radius_m": 100,
+      "pct_caught": 19.7,
+      "mean_area_km2": 4.3
+    },
+    {
+      "radius_m": 200,
+      "pct_caught": 42.3,
+      "mean_area_km2": 14.29
+    },
+    {
+      "radius_m": 500,
+      "pct_caught": 72.9,
+      "mean_area_km2": 55.15
+    }
+  ],
+  "uc_baseline": {
+    "pct_caught": 79.8,
+    "mean_area_km2": 90.8
+  }
+}

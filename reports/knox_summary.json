@@ -1,0 +1,109 @@
+{
+  "permutations": 499,
+  "pooled": [
+    {
+      "space_m": 100,
+      "time_days": 7,
+      "mean_ratio": 1.7956,
+      "min_p": 0.002,
+      "max_p": 0.002
+    },
+    {
+      "space_m": 100,
+      "time_days": 14,
+      "mean_ratio": 1.4706,
+      "min_p": 0.002,
+      "max_p": 0.002
+    },
+    {
+      "space_m": 200,
+      "time_days": 7,
+      "mean_ratio": 1.5074,
+      "min_p": 0.002,
+      "max_p": 0.002
+    },
+    {
+      "space_m": 200,
+      "time_days": 14,
+      "mean_ratio": 1.352,
+      "min_p": 0.002,
+      "max_p": 0.002
+    },
+    {
+      "space_m": 500,
+      "time_days": 7,
+      "mean_ratio": 1.2686,
+      "min_p": 0.002,
+      "max_p": 0.002
+    },
+    {
+      "space_m": 500,
+      "time_days": 14,
+      "mean_ratio": 1.218,
+      "min_p": 0.002,
+      "max_p": 0.002
+    },
+    {
+      "space_m": 1000,
+      "time_days": 7,
+      "mean_ratio": 1.1777,
+      "min_p": 0.002,
+      "max_p": 0.002
+    },
+    {
+      "space_m": 1000,
+      "time_days": 14,
+      "mean_ratio": 1.1538,
+      "min_p": 0.002,
+      "max_p": 0.002
+    },
+    {
+      "space_m": 2000,
+      "time_days": 7,
+      "mean_ratio": 1.086,
+      "min_p": 0.002,
+      "max_p": 0.002
+    },
+    {
+      "space_m": 2000,
+      "time_days": 14,
+      "mean_ratio": 1.0761,
+      "min_p": 0.002,
+      "max_p": 0.002
+    }
+  ],
+  "duplicate_locations": [
+    {
+      "year": 2021,
+      "cases": 2093,
+      "distinct_locations": 2092,
+      "locations_with_2plus": 1,
+      "max_at_one_location": 2,
+      "pct_sharing_a_location": 0.1
+    },
+    {
+      "year": 2022,
+      "cases": 4471,
+      "distinct_locations": 4471,
+      "locations_with_2plus": 0,
+      "max_at_one_location": 1,
+      "pct_sharing_a_location": 0.0
+    },
+    {
+      "year": 2023,
+      "cases": 1762,
+      "distinct_locations": 1760,
+      "locations_with_2plus": 2,
+      "max_at_one_location": 2,
+      "pct_sharing_a_location": 0.2
+    },
+    {
+      "year": 2024,
+      "cases": 5524,
+      "distinct_locations": 5523,
+      "locations_with_2plus": 1,
+      "max_at_one_location": 2,
+      "pct_sharing_a_location": 0.0
+    }
+  ]
+}

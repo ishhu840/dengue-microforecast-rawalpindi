@@ -1,0 +1,84 @@
+name: Refresh UC forecast
+
+# Pulls current Open-Meteo weather, re-runs the UC model for next week, rebuilds
+# the dashboard and publishes it. Runs daily because the 16-day weather forecast
+# is revised daily; the target week only rolls over on Mondays, but the numbers
+# for that week keep sharpening as it approaches.
+
+on:
+  schedule:
+    # 02:40 UTC = 07:40 Pakistan time, so a fresh forecast is up before office hours
+    - cron: "40 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: refresh-forecast
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Check the committed models still load and score
+        run: python src/13_verify_models.py
+
+      - name: Fetch live weather and forecast next week
+        run: python src/12_live_forecast.py
+
+      - name: Rebuild the dashboard
+        run: python src/08_build_app.py
+
+      - name: Commit refreshed forecast
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html app/index.html app/data/live_forecast.json reports/live_engine_validation.csv
+          if git diff --cached --quiet; then
+            echo "forecast unchanged; nothing to commit"
+          else
+            git commit -m "chore: refresh live UC dengue forecast [skip ci]"
+            git push
+          fi
+
+  deploy:
+    needs: refresh
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout the refreshed commit
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      # index.html at the repo root is the whole dashboard -- everything is
+      # inlined, so no other file needs to be served for it to work.
+      - name: Upload repo root as the Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

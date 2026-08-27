@@ -1,0 +1,7 @@
+fold,engine,MAE,Top10Hit
+2023,full (with case history),0.5204,0.5542
+2023,weather + season only,0.8466,0.4625
+2023,deployed static share,0.8121,0.4625
+2024,full (with case history),1.0383,0.5833
+2024,weather + season only,1.5352,0.575
+2024,deployed static share,0.9655,0.5708

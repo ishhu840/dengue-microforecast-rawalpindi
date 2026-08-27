@@ -1,0 +1,6 @@
+alert,UC_weeks_fired,share_of_all,mean_actual_cases,pct_with_any_case,pct_with_5plus,total_actual_cases,pct_of_all_cases
+Red,32,1.5,68.34,100.0,100.0,2187,43.4
+Orange,103,4.7,17.86,100.0,95.1,1840,36.5
+Yellow,268,12.3,2.55,81.3,17.5,683,13.5
+Watch,106,4.9,0.74,42.5,1.9,78,1.5
+Green,1666,76.6,0.15,10.6,0.2,256,5.1

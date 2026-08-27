@@ -1,0 +1,98 @@
+{
+  "city": {
+    "weeks": 25,
+    "PICP80": 0.76,
+    "MAE": 49.6,
+    "MAPE_active": 22.2,
+    "peak_week_actual": 44,
+    "peak_week_predicted": 42
+  },
+  "onset": {
+    "first_activations": 78,
+    "flagged_week_before": 31,
+    "recall": 0.3974
+  },
+  "top10_hit": 0.8708,
+  "coverage": [
+    {
+      "scope": "all UC-weeks",
+      "nominal": "80%",
+      "n": 2175,
+      "PICP": 0.9586,
+      "MPIW": 4.08
+    },
+    {
+      "scope": "all UC-weeks",
+      "nominal": "95%",
+      "n": 2175,
+      "PICP": 0.988,
+      "MPIW": 6.79
+    },
+    {
+      "scope": "UC-weeks with cases",
+      "nominal": "80%",
+      "n": 574,
+      "PICP": 0.8432,
+      "MPIW": 14.35
+    },
+    {
+      "scope": "UC-weeks with cases",
+      "nominal": "95%",
+      "n": 574,
+      "PICP": 0.9547,
+      "MPIW": 23.28
+    }
+  ],
+  "alerts": [
+    {
+      "alert": "Red",
+      "UC_weeks_fired": 32,
+      "share_of_all": 1.5,
+      "mean_actual_cases": 68.34,
+      "pct_with_any_case": 100.0,
+      "pct_with_5plus": 100.0,
+      "total_actual_cases": 2187,
+      "pct_of_all_cases": 43.4
+    },
+    {
+      "alert": "Orange",
+      "UC_weeks_fired": 103,
+      "share_of_all": 4.7,
+      "mean_actual_cases": 17.86,
+      "pct_with_any_case": 100.0,
+      "pct_with_5plus": 95.1,
+      "total_actual_cases": 1840,
+      "pct_of_all_cases": 36.5
+    },
+    {
+      "alert": "Yellow",
+      "UC_weeks_fired": 268,
+      "share_of_all": 12.3,
+      "mean_actual_cases": 2.55,
+      "pct_with_any_case": 81.3,
+      "pct_with_5plus": 17.5,
+      "total_actual_cases": 683,
+      "pct_of_all_cases": 13.5
+    },
+    {
+      "alert": "Watch",
+      "UC_weeks_fired": 106,
+      "share_of_all": 4.9,
+      "mean_actual_cases": 0.74,
+      "pct_with_any_case": 42.5,
+      "pct_with_5plus": 1.9,
+      "total_actual_cases": 78,
+      "pct_of_all_cases": 1.5
+    },
+    {
+      "alert": "Green",
+      "UC_weeks_fired": 1666,
+      "share_of_all": 76.6,
+      "mean_actual_cases": 0.15,
+      "pct_with_any_case": 10.6,
+      "pct_with_5plus": 0.2,
+      "total_actual_cases": 256,
+      "pct_of_all_cases": 5.1
+    }
+  ]
+}

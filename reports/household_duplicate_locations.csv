@@ -1,0 +1,5 @@
+year,cases,distinct_locations,locations_with_2plus,max_at_one_location,pct_sharing_a_location
+2021,2093,2092,1,2,0.1
+2022,4471,4471,0,1,0.0
+2023,1762,1760,2,2,0.2
+2024,5524,5523,1,2,0.0

@@ -1,0 +1,25 @@
+# ---------------------------------------------------------------------------
+# PATIENT DATA — NEVER COMMIT
+# ---------------------------------------------------------------------------
+# data_raw/ holds the cached line list: one row per confirmed dengue patient,
+# with the exact GPS coordinate of their home, plus age and sex. Publishing it
+# would expose identifiable households. Everything the live forecast needs is
+# in data_processed/, which is aggregated to Union Council x week counts.
+data_raw/
+*.xlsx
+*.xls
+*.parquet
+
+# Any file that could carry a patient identifier
+**/line_list*
+**/patients*
+
+# ---------------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
