@@ -206,6 +206,20 @@ def count_alerts(ucs: list[dict]) -> dict:
     return counts
 
 
+def delay_summary(delays: pd.DataFrame) -> dict:
+    """Onset-to-confirmation statistics from the published count distribution."""
+    values = np.repeat(delays["delay_days"].to_numpy(),
+                       delays["patients"].to_numpy())
+    return {
+        "n": int(values.size),
+        "median_days": float(np.median(values)),
+        "mean_days": round(float(values.mean()), 1),
+        "p90_days": float(np.quantile(values, 0.90)),
+        "within_7_days_pct": round(float((values <= 7).mean() * 100), 1),
+        "within_10_days_pct": round(float((values <= 10).mean() * 100), 1),
+    }
+
+
 def uc_boundaries() -> dict:
     """Simplified UC polygons, small enough to ship inside the page."""
     import geopandas as gpd
@@ -256,14 +270,10 @@ def main() -> None:
             .mean().round(4).to_dict(orient="records"),
         "onset_spatial_test": onset_test.to_dict(orient="records"),
         "distance_decay": decay.to_dict(orient="records"),
-        "reporting_delay": {
-            "n": int(len(delays)),
-            "median_days": float(delays["delay_days"].median()),
-            "mean_days": round(float(delays["delay_days"].mean()), 1),
-            "p90_days": float(delays["delay_days"].quantile(0.90)),
-            "within_7_days_pct": round(float((delays["delay_days"] <= 7).mean() * 100), 1),
-            "within_10_days_pct": round(float((delays["delay_days"] <= 10).mean() * 100), 1),
-        },
+        # reporting_delay.csv is a distribution (one row per distinct delay, with
+        # a patient count), not one row per patient, so every statistic has to be
+        # taken over the expanded values rather than over the rows.
+        "reporting_delay": delay_summary(delays),
     }
 
     # Scripts 09 and 10 are analysis-only and may not have run yet; their results

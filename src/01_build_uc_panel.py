@@ -214,11 +214,13 @@ def reporting_delay(cases: pd.DataFrame) -> pd.DataFrame:
     # Negative or absurd values are data-entry noise, not short delays.
     frame = frame[frame["delay_days"].between(0, 60)]
     frame["Year"] = frame["Confirmation Date"].dt.isocalendar().year.astype(int)
-    # Patient ID is deliberately dropped: this file is published, and an ID that
-    # joins back to a line list of named patients with household coordinates is
-    # not something to put in a public repository. The delay distribution needs
-    # no identifier.
-    return frame[["Year", "UC_name", "delay_days"]]
+    # Published as a distribution, not as one row per patient. The repository is
+    # public, and a per-patient row carrying year, neighbourhood and an exact
+    # delay would single out the only case in a quiet UC. Counts per (year,
+    # delay) support every statistic this study reports -- median, mean, p90,
+    # share confirmed within N days -- and single out nobody.
+    return (frame.groupby(["Year", "delay_days"])
+            .size().rename("patients").reset_index())
 
 
 def main() -> None:
