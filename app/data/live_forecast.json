@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T07:57:50",
+  "generated_at": "2026-09-18T07:36:12",
   "mode": "live",
   "engine": "weather_only",
   "weather_source": "archive + forecast",
@@ -9,39 +9,39 @@
     "week_start": "2026-09-21"
   },
   "in_season": true,
-  "city_expected": 146.7,
+  "city_expected": 146.8,
   "ucs": [
     {
       "uc": "Dhoke Mangtal",
-      "expected": 23.790000915527344,
+      "expected": 23.600000381469727,
       "low80": 3,
-      "high80": 52,
-      "alert": "Orange"
-    },
-    {
-      "uc": "Dhamial",
-      "expected": 10.680000305175781,
-      "low80": 1,
-      "high80": 24,
+      "high80": 51,
       "alert": "Orange"
     },
     {
       "uc": "LAKKHAN",
-      "expected": 10.670000076293945,
+      "expected": 10.710000038146973,
       "low80": 1,
       "high80": 24,
       "alert": "Orange"
     },
     {
+      "uc": "Dhamial",
+      "expected": 10.59000015258789,
+      "low80": 1,
+      "high80": 23,
+      "alert": "Orange"
+    },
+    {
       "uc": "Gulistan Colony",
-      "expected": 10.270000457763672,
+      "expected": 10.3100004196167,
       "low80": 1,
       "high80": 23,
       "alert": "Orange"
     },
     {
       "uc": "DHOK MUNSHI KHAN",
-      "expected": 10.039999961853027,
+      "expected": 10.079999923706055,
       "low80": 1,
       "high80": 22,
       "alert": "Orange"
@@ -55,63 +55,63 @@
     },
     {
       "uc": "KOTHA KALAN",
-      "expected": 9.34000015258789,
+      "expected": 9.369999885559082,
       "low80": 1,
       "high80": 21,
       "alert": "Orange"
     },
     {
       "uc": "CHAK JALAL DIN",
-      "expected": 7.96999979019165,
+      "expected": 8.0,
       "low80": 1,
       "high80": 18,
       "alert": "Orange"
     },
     {
       "uc": "Khurram Colony",
-      "expected": 6.699999809265137,
+      "expected": 6.730000019073486,
       "low80": 1,
       "high80": 15,
       "alert": "Orange"
     },
     {
       "uc": "RANIAL",
-      "expected": 5.769999980926514,
+      "expected": 5.789999961853027,
       "low80": 0,
       "high80": 13,
       "alert": "Yellow"
     },
     {
       "uc": "DHOK ALI AKBAR",
-      "expected": 5.659999847412109,
+      "expected": 5.690000057220459,
       "low80": 0,
       "high80": 13,
       "alert": "Yellow"
     },
     {
       "uc": "BANNI",
-      "expected": 4.25,
+      "expected": 4.260000228881836,
       "low80": 0,
       "high80": 10,
       "alert": "Yellow"
     },
     {
       "uc": "Waris Khan",
-      "expected": 3.0999999046325684,
+      "expected": 3.109999895095825,
       "low80": 0,
       "high80": 7,
       "alert": "Yellow"
     },
     {
       "uc": "RAWALPINDI CANTT-9",
-      "expected": 2.440000057220459,
+      "expected": 2.450000047683716,
       "low80": 0,
       "high80": 6,
       "alert": "Yellow"
     },
     {
       "uc": "KHANA DAK",
-      "expected": 1.600000023841858,
+      "expected": 1.6100000143051147,
       "low80": 0,
       "high80": 4,
       "alert": "Yellow"
@@ -135,7 +135,7 @@
       "expected": 1.0,
       "low80": 0,
       "high80": 3,
-      "alert": "Green"
+      "alert": "Yellow"
     },
     {
       "uc": "AMARPURA",
@@ -146,7 +146,7 @@
     },
     {
       "uc": "DHOK KHABBA",
-      "expected": 0.9100000262260437,
+      "expected": 0.9200000166893005,
       "low80": 0,
       "high80": 3,
       "alert": "Green"
@@ -160,7 +160,7 @@
     },
     {
       "uc": "TAKHT PARI",
-      "expected": 0.8500000238418579,
+      "expected": 0.8600000143051147,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
@@ -188,7 +188,7 @@
     },
     {
       "uc": "PURANA QILLA",
-      "expected": 0.7400000095367432,
+      "expected": 0.75,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
@@ -216,7 +216,7 @@
     },
     {
       "uc": "DHOK DALAL",
-      "expected": 0.5600000023841858,
+      "expected": 0.5699999928474426,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
@@ -267,7 +267,7 @@
       "uc": "GANJ MANDI",
       "expected": 0.4699999988079071,
       "low80": 0,
-      "high80": 1,
+      "high80": 2,
       "alert": "Green"
     },
     {
