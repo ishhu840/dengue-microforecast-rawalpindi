@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T08:11:08",
+  "generated_at": "2026-09-22T07:56:14",
   "mode": "live",
   "engine": "weather_only",
   "weather_source": "archive + forecast",
@@ -9,438 +9,438 @@
     "week_start": "2026-09-28"
   },
   "in_season": true,
-  "city_expected": 432.1,
+  "city_expected": 449.6,
   "ucs": [
     {
       "uc": "Dhoke Mangtal",
-      "expected": 90.16000366210938,
+      "expected": 94.36000061035156,
       "low80": 15,
-      "high80": 194,
+      "high80": 203,
       "alert": "Red"
     },
     {
       "uc": "Dhamial",
-      "expected": 45.08000183105469,
+      "expected": 47.18000030517578,
       "low80": 7,
-      "high80": 97,
+      "high80": 102,
       "alert": "Red"
     },
     {
       "uc": "LAKKHAN",
-      "expected": 37.40999984741211,
+      "expected": 38.779998779296875,
       "low80": 6,
-      "high80": 81,
+      "high80": 84,
       "alert": "Red"
     },
     {
       "uc": "Dhaman Syedan",
-      "expected": 34.84000015258789,
-      "low80": 5,
-      "high80": 75,
+      "expected": 35.90999984741211,
+      "low80": 6,
+      "high80": 78,
       "alert": "Red"
     },
     {
       "uc": "Gulistan Colony",
-      "expected": 23.899999618530273,
-      "low80": 3,
-      "high80": 52,
+      "expected": 24.93000030517578,
+      "low80": 4,
+      "high80": 54,
       "alert": "Orange"
     },
     {
       "uc": "KOTHA KALAN",
-      "expected": 20.059999465942383,
+      "expected": 20.93000030517578,
+      "low80": 3,
+      "high80": 46,
+      "alert": "Orange"
+    },
+    {
+      "uc": "DHOK MUNSHI KHAN",
+      "expected": 20.09000015258789,
       "low80": 3,
       "high80": 44,
       "alert": "Orange"
     },
     {
-      "uc": "DHOK MUNSHI KHAN",
-      "expected": 19.15999984741211,
+      "uc": "CHAK JALAL DIN",
+      "expected": 19.479999542236328,
       "low80": 3,
       "high80": 42,
       "alert": "Orange"
     },
     {
-      "uc": "CHAK JALAL DIN",
-      "expected": 18.579999923706055,
-      "low80": 3,
-      "high80": 41,
-      "alert": "Orange"
-    },
-    {
       "uc": "Khurram Colony",
-      "expected": 15.329999923706055,
+      "expected": 15.960000038146973,
       "low80": 2,
-      "high80": 34,
+      "high80": 35,
       "alert": "Orange"
     },
     {
       "uc": "RANIAL",
-      "expected": 14.40999984741211,
+      "expected": 15.0,
       "low80": 2,
-      "high80": 32,
+      "high80": 33,
       "alert": "Orange"
     },
     {
       "uc": "DHOK ALI AKBAR",
-      "expected": 12.609999656677246,
+      "expected": 13.119999885559082,
       "low80": 2,
-      "high80": 28,
+      "high80": 29,
       "alert": "Orange"
     },
     {
       "uc": "BANNI",
-      "expected": 9.449999809265137,
+      "expected": 9.829999923706055,
       "low80": 1,
-      "high80": 21,
+      "high80": 22,
       "alert": "Orange"
     },
     {
       "uc": "Waris Khan",
-      "expected": 7.260000228881836,
+      "expected": 7.550000190734863,
       "low80": 1,
-      "high80": 16,
+      "high80": 17,
       "alert": "Orange"
     },
     {
       "uc": "RAWALPINDI CANTT-9",
-      "expected": 6.440000057220459,
+      "expected": 6.710000038146973,
       "low80": 1,
       "high80": 15,
       "alert": "Orange"
     },
     {
       "uc": "KHANA DAK",
-      "expected": 5.300000190734863,
+      "expected": 5.519999980926514,
       "low80": 0,
-      "high80": 12,
+      "high80": 13,
       "alert": "Yellow"
     },
     {
       "uc": "Jhanda Chichi",
-      "expected": 5.110000133514404,
+      "expected": 5.320000171661377,
       "low80": 0,
       "high80": 12,
       "alert": "Yellow"
     },
     {
       "uc": "MILLAT COLONY",
-      "expected": 4.260000228881836,
+      "expected": 4.429999828338623,
       "low80": 0,
       "high80": 10,
       "alert": "Yellow"
     },
     {
       "uc": "AMARPURA",
-      "expected": 3.4800000190734863,
+      "expected": 3.5899999141693115,
       "low80": 0,
       "high80": 8,
       "alert": "Yellow"
     },
     {
       "uc": "KARTARPURA",
-      "expected": 3.4800000190734863,
+      "expected": 3.5899999141693115,
       "low80": 0,
       "high80": 8,
       "alert": "Yellow"
     },
     {
       "uc": "DHOK KHABBA",
-      "expected": 3.2300000190734863,
+      "expected": 3.3399999141693115,
       "low80": 0,
       "high80": 8,
       "alert": "Yellow"
     },
     {
       "uc": "Dhoke Chiragh Din",
-      "expected": 3.0199999809265137,
+      "expected": 3.119999885559082,
       "low80": 0,
       "high80": 7,
       "alert": "Yellow"
     },
     {
       "uc": "TAKHT PARI",
-      "expected": 2.9800000190734863,
+      "expected": 3.0799999237060547,
       "low80": 0,
       "high80": 7,
       "alert": "Yellow"
     },
     {
       "uc": "DHOK FARMAN ALI",
-      "expected": 2.9000000953674316,
+      "expected": 2.9800000190734863,
       "low80": 0,
       "high80": 7,
       "alert": "Yellow"
     },
     {
       "uc": "MORGAH",
-      "expected": 2.9000000953674316,
+      "expected": 2.9800000190734863,
       "low80": 0,
       "high80": 7,
       "alert": "Yellow"
     },
     {
       "uc": "DHOK KALA KHAN",
-      "expected": 2.559999942779541,
+      "expected": 2.630000114440918,
       "low80": 0,
       "high80": 6,
       "alert": "Yellow"
     },
     {
       "uc": "PURANA QILLA",
-      "expected": 2.200000047683716,
+      "expected": 2.259999990463257,
       "low80": 0,
       "high80": 5,
       "alert": "Yellow"
     },
     {
       "uc": "SHAH CHAN CHARAGH",
-      "expected": 1.75,
+      "expected": 1.7899999618530273,
       "low80": 0,
       "high80": 4,
       "alert": "Yellow"
     },
     {
       "uc": "LOHDRA",
-      "expected": 1.75,
+      "expected": 1.7899999618530273,
       "low80": 0,
       "high80": 4,
       "alert": "Yellow"
     },
     {
       "uc": "DHOK BABU IRFAN",
-      "expected": 1.6100000143051147,
+      "expected": 1.649999976158142,
       "low80": 0,
       "high80": 4,
       "alert": "Yellow"
     },
     {
       "uc": "DHOK DALAL",
-      "expected": 1.5399999618530273,
+      "expected": 1.5800000429153442,
       "low80": 0,
       "high80": 4,
       "alert": "Yellow"
     },
     {
       "uc": "Purana Qila",
-      "expected": 1.5299999713897705,
-      "low80": 0,
-      "high80": 4,
-      "alert": "Yellow"
-    },
-    {
-      "uc": "CHAH SULTAN",
-      "expected": 1.4800000190734863,
+      "expected": 1.5700000524520874,
       "low80": 0,
       "high80": 4,
       "alert": "Yellow"
     },
     {
       "uc": "Adiala",
-      "expected": 1.4700000286102295,
+      "expected": 1.5099999904632568,
+      "low80": 0,
+      "high80": 4,
+      "alert": "Yellow"
+    },
+    {
+      "uc": "CHAH SULTAN",
+      "expected": 1.5099999904632568,
       "low80": 0,
       "high80": 4,
       "alert": "Yellow"
     },
     {
       "uc": "DHOK HUKAM DAD",
-      "expected": 1.3899999856948853,
+      "expected": 1.4299999475479126,
       "low80": 0,
       "high80": 4,
       "alert": "Yellow"
     },
     {
       "uc": "MOHANPURA",
-      "expected": 1.3899999856948853,
+      "expected": 1.4299999475479126,
       "low80": 0,
       "high80": 4,
       "alert": "Yellow"
     },
     {
       "uc": "RAWALPINDI CANTT-3",
-      "expected": 1.25,
+      "expected": 1.2799999713897705,
       "low80": 0,
       "high80": 3,
       "alert": "Yellow"
     },
     {
       "uc": "GANJ MANDI",
-      "expected": 1.190000057220459,
+      "expected": 1.2300000190734863,
       "low80": 0,
       "high80": 3,
       "alert": "Yellow"
     },
     {
       "uc": "Chauntra",
-      "expected": 1.149999976158142,
+      "expected": 1.1799999475479126,
       "low80": 0,
       "high80": 3,
       "alert": "Yellow"
     },
     {
       "uc": "BAJNIAL",
-      "expected": 1.059999942779541,
+      "expected": 1.090000033378601,
       "low80": 0,
       "high80": 3,
       "alert": "Yellow"
     },
     {
       "uc": "GANGAL",
-      "expected": 1.059999942779541,
+      "expected": 1.090000033378601,
       "low80": 0,
       "high80": 3,
       "alert": "Yellow"
     },
     {
       "uc": "Dhok Ratta",
-      "expected": 1.059999942779541,
+      "expected": 1.090000033378601,
       "low80": 0,
       "high80": 3,
       "alert": "Yellow"
     },
     {
       "uc": "RAWALPINDI CANTT-8",
-      "expected": 1.0299999713897705,
+      "expected": 1.0499999523162842,
       "low80": 0,
       "high80": 3,
       "alert": "Yellow"
     },
     {
       "uc": "Chhappar",
-      "expected": 0.9399999976158142,
+      "expected": 0.9700000286102295,
       "low80": 0,
       "high80": 3,
       "alert": "Green"
     },
     {
       "uc": "BAGGA SHEIKHAN",
-      "expected": 0.9200000166893005,
+      "expected": 0.9399999976158142,
       "low80": 0,
       "high80": 3,
       "alert": "Green"
     },
     {
       "uc": "CHAK BELI KHAN",
-      "expected": 0.8399999737739563,
+      "expected": 0.8600000143051147,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
     },
     {
       "uc": "SAGRI KALAN",
-      "expected": 0.7900000214576721,
+      "expected": 0.8100000023841858,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
     },
     {
       "uc": "PINDORA",
-      "expected": 0.7799999713897705,
+      "expected": 0.800000011920929,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
     },
     {
       "uc": "ASGHAR MALL SCHEME",
-      "expected": 0.7799999713897705,
+      "expected": 0.800000011920929,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
     },
     {
       "uc": "AFANDI COLONY",
-      "expected": 0.7799999713897705,
+      "expected": 0.800000011920929,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
     },
     {
       "uc": "MUSLIM TOWN (WEST)",
-      "expected": 0.6700000166893005,
+      "expected": 0.6899999976158142,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
     },
     {
       "uc": "CHAHAN",
-      "expected": 0.6200000047683716,
+      "expected": 0.6299999952316284,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
     },
     {
       "uc": "BASALI",
-      "expected": 0.6200000047683716,
+      "expected": 0.6299999952316284,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
     },
     {
       "uc": "RAWALPINDI CANTT-2",
-      "expected": 0.5699999928474426,
+      "expected": 0.5899999737739563,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
     },
     {
       "uc": "Gawal Mandi",
-      "expected": 0.5699999928474426,
+      "expected": 0.5899999737739563,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
     },
     {
       "uc": "Mohan Pura",
-      "expected": 0.5400000214576721,
+      "expected": 0.550000011920929,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
     },
     {
       "uc": "Ratta Amral",
-      "expected": 0.5299999713897705,
+      "expected": 0.5400000214576721,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
     },
     {
       "uc": "BANDA",
-      "expected": 0.41999998688697815,
+      "expected": 0.4300000071525574,
       "low80": 0,
       "high80": 1,
       "alert": "Green"
     },
     {
       "uc": "Kolian Hamid",
-      "expected": 0.41999998688697815,
+      "expected": 0.4300000071525574,
       "low80": 0,
       "high80": 1,
       "alert": "Green"
     },
     {
       "uc": "QAYYUMABAD",
-      "expected": 0.3700000047683716,
+      "expected": 0.3799999952316284,
       "low80": 0,
       "high80": 1,
       "alert": "Green"
     },
     {
       "uc": "107 UC",
-      "expected": 0.25999999046325684,
+      "expected": 0.27000001072883606,
       "low80": 0,
       "high80": 1,
       "alert": "Green"
     },
     {
       "uc": "KHURRAM COLONY",
-      "expected": 0.25999999046325684,
+      "expected": 0.27000001072883606,
       "low80": 0,
       "high80": 1,
       "alert": "Green"
     },
     {
       "uc": "NEW KATARIAN",
-      "expected": 0.25999999046325684,
+      "expected": 0.27000001072883606,
       "low80": 0,
       "high80": 1,
       "alert": "Green"
@@ -454,7 +454,7 @@
     },
     {
       "uc": "RAWALPINDI CANTT-1",
-      "expected": 0.1899999976158142,
+      "expected": 0.20000000298023224,
       "low80": 0,
       "high80": 1,
       "alert": "Green"
@@ -537,6 +537,27 @@
       "alert": "Green"
     },
     {
+      "uc": "CHAMAN ZAR COLONY",
+      "expected": 0.03999999910593033,
+      "low80": 0,
+      "high80": 0,
+      "alert": "Green"
+    },
+    {
+      "uc": "KHYBAN SIR SYED(NORTH)",
+      "expected": 0.03999999910593033,
+      "low80": 0,
+      "high80": 0,
+      "alert": "Green"
+    },
+    {
+      "uc": "DHOK RATTA",
+      "expected": 0.03999999910593033,
+      "low80": 0,
+      "high80": 0,
+      "alert": "Green"
+    },
+    {
       "uc": "DHOK NAJJU",
       "expected": 0.03999999910593033,
       "low80": 0,
@@ -544,7 +565,14 @@
       "alert": "Green"
     },
     {
-      "uc": "DHOK MANGTAL",
+      "uc": "DHOK HASSU(NORTH)",
+      "expected": 0.03999999910593033,
+      "low80": 0,
+      "high80": 0,
+      "alert": "Green"
+    },
+    {
+      "uc": "Gaggan",
       "expected": 0.03999999910593033,
       "low80": 0,
       "high80": 0,
@@ -565,6 +593,20 @@
       "alert": "Green"
     },
     {
+      "uc": "DHOK MANGTAL",
+      "expected": 0.03999999910593033,
+      "low80": 0,
+      "high80": 0,
+      "alert": "Green"
+    },
+    {
+      "uc": "DHOK HASSU(SOUTH)",
+      "expected": 0.03999999910593033,
+      "low80": 0,
+      "high80": 0,
+      "alert": "Green"
+    },
+    {
       "uc": "MUHALLA AMAMBARA",
       "expected": 0.03999999910593033,
       "low80": 0,
@@ -572,50 +614,8 @@
       "alert": "Green"
     },
     {
-      "uc": "Gaggan",
-      "expected": 0.03999999910593033,
-      "low80": 0,
-      "high80": 0,
-      "alert": "Green"
-    },
-    {
-      "uc": "CHAMAN ZAR COLONY",
-      "expected": 0.029999999329447746,
-      "low80": 0,
-      "high80": 0,
-      "alert": "Green"
-    },
-    {
-      "uc": "DHOK RATTA",
-      "expected": 0.029999999329447746,
-      "low80": 0,
-      "high80": 0,
-      "alert": "Green"
-    },
-    {
-      "uc": "KHYBAN SIR SYED(NORTH)",
-      "expected": 0.029999999329447746,
-      "low80": 0,
-      "high80": 0,
-      "alert": "Green"
-    },
-    {
-      "uc": "DHOK HASSU(SOUTH)",
-      "expected": 0.029999999329447746,
-      "low80": 0,
-      "high80": 0,
-      "alert": "Green"
-    },
-    {
-      "uc": "DHOK HASSU(NORTH)",
-      "expected": 0.029999999329447746,
-      "low80": 0,
-      "high80": 0,
-      "alert": "Green"
-    },
-    {
       "uc": "RATTA AMRAL",
-      "expected": 0.029999999329447746,
+      "expected": 0.03999999910593033,
       "low80": 0,
       "high80": 0,
       "alert": "Green"
