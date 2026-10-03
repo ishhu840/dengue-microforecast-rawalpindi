@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T08:58:02",
+  "generated_at": "2026-10-03T08:32:06",
   "mode": "live",
   "engine": "weather_only",
   "weather_source": "archive + forecast",
@@ -9,39 +9,39 @@
     "week_start": "2026-10-05"
   },
   "in_season": true,
-  "city_expected": 190.7,
+  "city_expected": 190.9,
   "ucs": [
     {
       "uc": "Dhoke Mangtal",
-      "expected": 38.75,
+      "expected": 38.77000045776367,
       "low80": 6,
       "high80": 84,
       "alert": "Red"
     },
     {
       "uc": "Dhamial",
-      "expected": 17.469999313354492,
+      "expected": 17.479999542236328,
       "low80": 2,
       "high80": 38,
       "alert": "Orange"
     },
     {
       "uc": "LAKKHAN",
-      "expected": 14.529999732971191,
+      "expected": 14.539999961853027,
       "low80": 2,
       "high80": 32,
       "alert": "Orange"
     },
     {
       "uc": "Dhaman Syedan",
-      "expected": 14.1899995803833,
+      "expected": 14.199999809265137,
       "low80": 2,
       "high80": 31,
       "alert": "Orange"
     },
     {
       "uc": "Gulistan Colony",
-      "expected": 11.180000305175781,
+      "expected": 11.1899995803833,
       "low80": 1,
       "high80": 25,
       "alert": "Orange"
@@ -55,7 +55,7 @@
     },
     {
       "uc": "DHOK MUNSHI KHAN",
-      "expected": 10.710000038146973,
+      "expected": 10.720000267028809,
       "low80": 1,
       "high80": 24,
       "alert": "Orange"
@@ -69,14 +69,14 @@
     },
     {
       "uc": "Khurram Colony",
-      "expected": 7.860000133514404,
+      "expected": 7.869999885559082,
       "low80": 1,
       "high80": 18,
       "alert": "Orange"
     },
     {
       "uc": "RANIAL",
-      "expected": 6.849999904632568,
+      "expected": 6.860000133514404,
       "low80": 1,
       "high80": 15,
       "alert": "Orange"
@@ -104,7 +104,7 @@
     },
     {
       "uc": "RAWALPINDI CANTT-9",
-      "expected": 2.7100000381469727,
+      "expected": 2.7200000286102295,
       "low80": 0,
       "high80": 6,
       "alert": "Yellow"
@@ -300,7 +300,7 @@
     },
     {
       "uc": "RAWALPINDI CANTT-8",
-      "expected": 0.5099999904632568,
+      "expected": 0.5199999809265137,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
