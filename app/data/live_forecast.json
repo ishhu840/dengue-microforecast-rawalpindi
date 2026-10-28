@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T08:21:06",
+  "generated_at": "2026-10-28T08:56:38",
   "mode": "live",
   "engine": "weather_only",
   "weather_source": "archive + forecast",
@@ -9,7 +9,7 @@
     "week_start": "2026-11-02"
   },
   "in_season": true,
-  "city_expected": 131.7,
+  "city_expected": 131.6,
   "ucs": [
     {
       "uc": "Dhoke Mangtal",
@@ -188,7 +188,7 @@
     },
     {
       "uc": "PURANA QILLA",
-      "expected": 0.5899999737739563,
+      "expected": 0.5799999833106995,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
@@ -209,20 +209,20 @@
     },
     {
       "uc": "DHOK BABU IRFAN",
-      "expected": 0.5099999904632568,
-      "low80": 0,
-      "high80": 2,
-      "alert": "Green"
-    },
-    {
-      "uc": "DHOK DALAL",
-      "expected": 0.5099999904632568,
+      "expected": 0.5,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
     },
     {
       "uc": "CHAH SULTAN",
+      "expected": 0.5,
+      "low80": 0,
+      "high80": 2,
+      "alert": "Green"
+    },
+    {
+      "uc": "DHOK DALAL",
       "expected": 0.5,
       "low80": 0,
       "high80": 2,
@@ -237,28 +237,28 @@
     },
     {
       "uc": "Adiala",
-      "expected": 0.49000000953674316,
+      "expected": 0.47999998927116394,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
     },
     {
       "uc": "DHOK HUKAM DAD",
-      "expected": 0.47999998927116394,
+      "expected": 0.4699999988079071,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
     },
     {
       "uc": "MOHANPURA",
-      "expected": 0.47999998927116394,
+      "expected": 0.4699999988079071,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
     },
     {
       "uc": "RAWALPINDI CANTT-3",
-      "expected": 0.4699999988079071,
+      "expected": 0.46000000834465027,
       "low80": 0,
       "high80": 1,
       "alert": "Green"
@@ -307,14 +307,14 @@
     },
     {
       "uc": "Chhappar",
-      "expected": 0.28999999165534973,
+      "expected": 0.2800000011920929,
       "low80": 0,
       "high80": 1,
       "alert": "Green"
     },
     {
       "uc": "BAGGA SHEIKHAN",
-      "expected": 0.27000001072883606,
+      "expected": 0.25999999046325684,
       "low80": 0,
       "high80": 1,
       "alert": "Green"
@@ -328,7 +328,7 @@
     },
     {
       "uc": "ASGHAR MALL SCHEME",
-      "expected": 0.23999999463558197,
+      "expected": 0.23000000417232513,
       "low80": 0,
       "high80": 1,
       "alert": "Green"
@@ -342,34 +342,20 @@
     },
     {
       "uc": "AFANDI COLONY",
-      "expected": 0.20999999344348907,
-      "low80": 0,
-      "high80": 1,
-      "alert": "Green"
-    },
-    {
-      "uc": "PINDORA",
-      "expected": 0.20999999344348907,
-      "low80": 0,
-      "high80": 1,
-      "alert": "Green"
-    },
-    {
-      "uc": "MUSLIM TOWN (WEST)",
       "expected": 0.20000000298023224,
       "low80": 0,
       "high80": 1,
       "alert": "Green"
     },
     {
-      "uc": "CHAHAN",
-      "expected": 0.1899999976158142,
+      "uc": "PINDORA",
+      "expected": 0.20000000298023224,
       "low80": 0,
       "high80": 1,
       "alert": "Green"
     },
     {
-      "uc": "BASALI",
+      "uc": "MUSLIM TOWN (WEST)",
       "expected": 0.1899999976158142,
       "low80": 0,
       "high80": 1,
@@ -384,6 +370,20 @@
     },
     {
       "uc": "Gawal Mandi",
+      "expected": 0.18000000715255737,
+      "low80": 0,
+      "high80": 1,
+      "alert": "Green"
+    },
+    {
+      "uc": "CHAHAN",
+      "expected": 0.18000000715255737,
+      "low80": 0,
+      "high80": 1,
+      "alert": "Green"
+    },
+    {
+      "uc": "BASALI",
       "expected": 0.18000000715255737,
       "low80": 0,
       "high80": 1,
@@ -405,14 +405,14 @@
     },
     {
       "uc": "BANDA",
-      "expected": 0.15000000596046448,
+      "expected": 0.14000000059604645,
       "low80": 0,
       "high80": 1,
       "alert": "Green"
     },
     {
       "uc": "Kolian Hamid",
-      "expected": 0.15000000596046448,
+      "expected": 0.14000000059604645,
       "low80": 0,
       "high80": 1,
       "alert": "Green"
