@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T09:47:29",
+  "generated_at": "2026-11-05T09:48:58",
   "mode": "live",
   "engine": "weather_only",
   "weather_source": "archive + forecast",
@@ -9,7 +9,7 @@
     "week_start": "2026-11-09"
   },
   "in_season": true,
-  "city_expected": 63.8,
+  "city_expected": 64.2,
   "ucs": [
     {
       "uc": "Dhoke Mangtal",
@@ -20,70 +20,70 @@
     },
     {
       "uc": "Dhamial",
-      "expected": 7.199999809265137,
+      "expected": 7.349999904632568,
       "low80": 1,
       "high80": 16,
       "alert": "Orange"
     },
     {
       "uc": "LAKKHAN",
-      "expected": 4.679999828338623,
+      "expected": 4.690000057220459,
       "low80": 0,
       "high80": 11,
       "alert": "Yellow"
     },
     {
       "uc": "Dhaman Syedan",
-      "expected": 4.400000095367432,
+      "expected": 4.5,
       "low80": 0,
       "high80": 10,
       "alert": "Yellow"
     },
     {
       "uc": "KOTHA KALAN",
-      "expected": 3.009999990463257,
+      "expected": 3.0199999809265137,
       "low80": 0,
       "high80": 7,
       "alert": "Yellow"
     },
     {
       "uc": "Gulistan Colony",
-      "expected": 3.0,
+      "expected": 3.009999990463257,
       "low80": 0,
       "high80": 7,
       "alert": "Yellow"
     },
     {
       "uc": "CHAK JALAL DIN",
-      "expected": 2.9600000381469727,
+      "expected": 2.9700000286102295,
       "low80": 0,
       "high80": 7,
       "alert": "Yellow"
     },
     {
       "uc": "DHOK MUNSHI KHAN",
-      "expected": 2.9600000381469727,
+      "expected": 2.9700000286102295,
       "low80": 0,
       "high80": 7,
       "alert": "Yellow"
     },
     {
       "uc": "Khurram Colony",
-      "expected": 2.369999885559082,
+      "expected": 2.380000114440918,
       "low80": 0,
       "high80": 6,
       "alert": "Yellow"
     },
     {
       "uc": "RANIAL",
-      "expected": 2.240000009536743,
+      "expected": 2.25,
       "low80": 0,
       "high80": 5,
       "alert": "Yellow"
     },
     {
       "uc": "DHOK ALI AKBAR",
-      "expected": 2.0999999046325684,
+      "expected": 2.109999895095825,
       "low80": 0,
       "high80": 5,
       "alert": "Yellow"
@@ -104,7 +104,7 @@
     },
     {
       "uc": "RAWALPINDI CANTT-9",
-      "expected": 0.7699999809265137,
+      "expected": 0.7799999713897705,
       "low80": 0,
       "high80": 2,
       "alert": "Green"
