@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:48:11",
+  "generated_at": "2026-11-07T09:12:01",
   "mode": "live",
   "engine": "weather_only",
   "weather_source": "archive + forecast",
@@ -9,18 +9,18 @@
     "week_start": "2026-11-09"
   },
   "in_season": true,
-  "city_expected": 64.3,
+  "city_expected": 64.2,
   "ucs": [
     {
       "uc": "Dhoke Mangtal",
-      "expected": 17.15999984741211,
+      "expected": 17.020000457763672,
       "low80": 2,
       "high80": 37,
       "alert": "Orange"
     },
     {
       "uc": "Dhamial",
-      "expected": 7.230000019073486,
+      "expected": 7.21999979019165,
       "low80": 1,
       "high80": 16,
       "alert": "Orange"
@@ -54,14 +54,14 @@
       "alert": "Yellow"
     },
     {
-      "uc": "DHOK MUNSHI KHAN",
-      "expected": 3.0,
+      "uc": "CHAK JALAL DIN",
+      "expected": 2.990000009536743,
       "low80": 0,
       "high80": 7,
       "alert": "Yellow"
     },
     {
-      "uc": "CHAK JALAL DIN",
+      "uc": "DHOK MUNSHI KHAN",
       "expected": 2.990000009536743,
       "low80": 0,
       "high80": 7,
@@ -78,19 +78,19 @@
       "uc": "RANIAL",
       "expected": 2.259999990463257,
       "low80": 0,
-      "high80": 5,
+      "high80": 6,
       "alert": "Yellow"
     },
     {
       "uc": "DHOK ALI AKBAR",
-      "expected": 2.119999885559082,
+      "expected": 2.130000114440918,
       "low80": 0,
       "high80": 5,
       "alert": "Yellow"
     },
     {
       "uc": "BANNI",
-      "expected": 1.850000023841858,
+      "expected": 1.8600000143051147,
       "low80": 0,
       "high80": 5,
       "alert": "Yellow"
@@ -344,7 +344,7 @@
       "uc": "AFANDI COLONY",
       "expected": 0.10999999940395355,
       "low80": 0,
-      "high80": 0,
+      "high80": 1,
       "alert": "Green"
     },
     {
@@ -358,11 +358,18 @@
       "uc": "PINDORA",
       "expected": 0.10999999940395355,
       "low80": 0,
-      "high80": 0,
+      "high80": 1,
       "alert": "Green"
     },
     {
       "uc": "RAWALPINDI CANTT-2",
+      "expected": 0.10000000149011612,
+      "low80": 0,
+      "high80": 0,
+      "alert": "Green"
+    },
+    {
+      "uc": "Mohan Pura",
       "expected": 0.10000000149011612,
       "low80": 0,
       "high80": 0,
@@ -376,13 +383,6 @@
       "alert": "Green"
     },
     {
-      "uc": "CHAHAN",
-      "expected": 0.10000000149011612,
-      "low80": 0,
-      "high80": 0,
-      "alert": "Green"
-    },
-    {
       "uc": "BASALI",
       "expected": 0.10000000149011612,
       "low80": 0,
@@ -390,21 +390,21 @@
       "alert": "Green"
     },
     {
-      "uc": "BANDA",
-      "expected": 0.09000000357627869,
-      "low80": 0,
-      "high80": 0,
-      "alert": "Green"
-    },
-    {
-      "uc": "Mohan Pura",
-      "expected": 0.09000000357627869,
+      "uc": "CHAHAN",
+      "expected": 0.10000000149011612,
       "low80": 0,
       "high80": 0,
       "alert": "Green"
     },
     {
       "uc": "Kolian Hamid",
+      "expected": 0.09000000357627869,
+      "low80": 0,
+      "high80": 0,
+      "alert": "Green"
+    },
+    {
+      "uc": "BANDA",
       "expected": 0.09000000357627869,
       "low80": 0,
       "high80": 0,
