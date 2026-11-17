@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T10:08:16",
+  "generated_at": "2026-11-17T11:04:11",
   "mode": "live",
   "engine": "weather_only",
   "weather_source": "archive + forecast",
@@ -9,13 +9,13 @@
     "week_start": "2026-11-23"
   },
   "in_season": true,
-  "city_expected": 6.7,
+  "city_expected": 6.6,
   "ucs": [
     {
       "uc": "Dhoke Mangtal",
-      "expected": 2.2899999618530273,
+      "expected": 2.240000009536743,
       "low80": 0,
-      "high80": 6,
+      "high80": 5,
       "alert": "Yellow"
     },
     {
