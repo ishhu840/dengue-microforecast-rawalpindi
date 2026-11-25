@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T12:54:04",
+  "generated_at": "2026-11-25T11:39:59",
   "mode": "live",
   "engine": "weather_only",
   "weather_source": "archive + forecast",
@@ -13,9 +13,9 @@
   "ucs": [
     {
       "uc": "Dhoke Mangtal",
-      "expected": 0.8999999761581421,
+      "expected": 0.8899999856948853,
       "low80": 0,
-      "high80": 3,
+      "high80": 2,
       "alert": "Green"
     },
     {
